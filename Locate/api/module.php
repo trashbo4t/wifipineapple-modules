@@ -84,7 +84,7 @@ class Locate extends Module
 
 		$json = $this->getJson($link, $file);
 	
-		$this->addToIpFile($this->request->ip);
+		$this->addToIPFile($this->request->ip);
 		$this->response = $json;
 	}
 	/*
