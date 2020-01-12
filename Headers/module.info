@@ -1,0 +1,10 @@
+{
+	"author": "trashbo4t",
+	"description": "Capture user-agent, request headers, and other profiling information from connected clients. (Inspired by minanagehsalalma)",
+	"devices": [
+	    "nano",
+	    "tetra"
+	],
+	"title": "Headers",
+    "version": "1.0"
+}
